@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boletín_Covid19</string>
+    <string name="descart">Descartado:</string>
+    <string name="confir">Confirmado:</string>
+    <string name="data">Fecha:</string>
+    <string name="boletim">Boletín Epidemiológico CORONAVIRUS</string>
+    <string name="casos_confirmados">CASOS CONFIRMADOS</string>
+    <string name="casos_descartados">" 17/5000 CASOS DESECHADOS"</string>
+    <string name="casos_suspeitos">CASOS SOSPECHADOS</string>
+    <string name="casos_curados">CURADO</string>
+    <string name="casos_monitorados">CASOS DE MONITOREO</string>
+    <string name="hora">HORA</string>
+    <string name="iso_domiciliar">en casa aislamiento</string>
+    <string name="iso_hospitalar">en aislamiento hospitalario</string>
+    <string name="mortes">MUERTE</string>
+    <string name="prefeitura">PREFECTURA DE</string>
+    <string name="torres">TORRES</string>
+    <string name="logo_prefeitura">Logotipo del Ayuntamiento de Torres</string>
+    <string name="prefeituratorres">Ayuntamiento de Torres</string>
+</resources>

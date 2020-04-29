@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bulletin_Covid19</string>
+    <string name="descart">Discarded:</string>
+    <string name="confir">Confirmed:</string>
+    <string name="data">Date:</string>
+    <string name="boletim">Epidemiological Bulletin CORONAVIRUS</string>
+    <string name="casos_confirmados">CONFIRMED CASES</string>
+    <string name="casos_descartados">DISCARDED CASES</string>
+    <string name="casos_suspeitos">SUSPECTED CASES</string>
+    <string name="casos_curados">CURED</string>
+    <string name="casos_monitorados">MONITORING CASES</string>
+    <string name="hora">HOUR</string>
+    <string name="iso_domiciliar">in home isolation</string>
+    <string name="iso_hospitalar">in hospital isolation</string>
+    <string name="mortes">DEATHS</string>
+    <string name="prefeitura">PREFECTURE OF</string>
+    <string name="torres">TORRES</string>
+    <string name="logo_prefeitura">Torres City Hall Logo</string>
+    <string name="prefeituratorres">Torres City Hall</string>
+</resources>
